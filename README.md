@@ -83,7 +83,7 @@ I like making things that are visual, interactive, and a little bit weird. Most 
 
 ### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [How I Built Real-Time Kinetic Typography in the Browser Without DOM Reflow](https://hubertlim.github.io/posts/glyphflow-kinetic-typography/)- [Human-Centered CI/CD Workflow](https://hubertlim.github.io/posts/CI-CD/)- [[THM] K8s Best Security Practices](https://hubertlim.github.io/posts/THM-K8s-Best-Security-Practices/)- [[THM] Osquery: The Basics](https://hubertlim.github.io/posts/THM-Osquery-The-Basics/)- [[THM] Hacking with PowerShell](https://hubertlim.github.io/posts/THM-Hacking-with-PowerShell/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Building a Multi-Pass Phosphor Rendering Pipeline in WebGL](https://hubertlim.github.io/posts/phosphor-rendering-pipeline/)- [How I Built Real-Time Kinetic Typography in the Browser Without DOM Reflow](https://hubertlim.github.io/posts/glyphflow-kinetic-typography/)- [Human-Centered CI/CD Workflow](https://hubertlim.github.io/posts/CI-CD/)- [[THM] K8s Best Security Practices](https://hubertlim.github.io/posts/THM-K8s-Best-Security-Practices/)- [[THM] Osquery: The Basics](https://hubertlim.github.io/posts/THM-Osquery-The-Basics/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [**More posts on my blog →**](https://hubertlim.github.io)
 
