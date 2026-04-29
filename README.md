@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
+  <a href="https://hubertlim.github.io">
+    <img src="https://img.shields.io/badge/Blog-hubertlim.github.io-FF5722?style=for-the-badge&logo=jekyll&logoColor=white" alt="Blog" />
+  </a>
   <a href="https://hubertlim.github.io/SkillForge/">
     <img src="https://img.shields.io/badge/SkillForge-Live_Demo-blue?style=for-the-badge&logo=react" alt="SkillForge" />
   </a>
   <a href="https://hubertlim.github.io/oscilloscope_playground/">
     <img src="https://img.shields.io/badge/Phosphor-Live_Demo-green?style=for-the-badge&logo=webgl" alt="Phosphor" />
-  </a>
-  <a href="https://github.com/hubertlim?tab=repositories">
-    <img src="https://img.shields.io/badge/All_Repos-GitHub-181717?style=for-the-badge&logo=github" alt="Repos" />
   </a>
 </p>
 
@@ -26,6 +26,7 @@ I like making things that are visual, interactive, and a little bit weird. Most 
 - 🎨 **Creative tech** — WebGL shaders, CRT simulations, pixel ecosystems
 - 🎮 **Browser games** — lightweight arena games you can play in a tab
 - 🔧 **Utilities** — Blender add-ons, Sudoku solvers, productivity tools
+- 🔐 **Security** — TryHackMe walkthroughs, DevSecOps pipelines
 
 ---
 
@@ -61,6 +62,9 @@ I like making things that are visual, interactive, and a little bit weird. Most 
         Pixel ecology sandbox — frogs and snakes evolve, mutate, and create ecosystem chaos.<br/>
         TypeScript · Canvas · Simulation
       </p>
+      <p align="center">
+        <a href="https://hubertlim.github.io/pixel_world/">🔗 Live Demo</a>
+      </p>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/hubertlim/AAAgario">AAAgario</a></h3>
@@ -68,9 +72,26 @@ I like making things that are visual, interactive, and a little bit weird. Most 
         Tiny browser arena game: Agar.io growth meets Hole.io routing.<br/>
         JavaScript · Canvas · Game Dev
       </p>
+      <p align="center">
+        <a href="https://hubertlim.github.io/AAAgario/">🔗 Live Demo</a>
+      </p>
     </td>
   </tr>
 </table>
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How I Built Real-Time Kinetic Typography in the Browser Without DOM Reflow](https://hubertlim.github.io/posts/glyphflow-kinetic-typography/)
+- [Human-Centered CI/CD Workflow](https://hubertlim.github.io/posts/CI-CD/)
+- [&#91;THM&#93; K8s Best Security Practices](https://hubertlim.github.io/posts/THM-K8s-Best-Security-Practices/)
+- [&#91;THM&#93; Osquery: The Basics](https://hubertlim.github.io/posts/THM-Osquery-The-Basics/)
+- [&#91;THM&#93; Hacking with PowerShell](https://hubertlim.github.io/posts/THM-Hacking-with-PowerShell/)
+<!-- BLOG-POST-LIST:END -->
+
+▶ [**More posts on my blog →**](https://hubertlim.github.io)
 
 ---
 
@@ -87,11 +108,22 @@ I like making things that are visual, interactive, and a little bit weird. Most 
   <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
+
+---
+
+### 🎯 2026 Goals
+
+- 🔨 Ship more open-source creative coding tools
+- 📖 Write more technical deep-dives on the blog
+- 🌐 Contribute to other open-source projects
+- 🏆 Level up GitHub achievements (Pull Shark → Bronze)
 
 ---
 
@@ -117,5 +149,8 @@ I like making things that are visual, interactive, and a little bit weird. Most 
 ---
 
 <p align="center">
+  <a href="https://hubertlim.github.io">
+    <img src="https://img.shields.io/badge/📖_Read_my_blog-hubertlim.github.io-FF5722?style=flat-square" alt="Blog" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=hubertlim&style=flat-square&color=blue" alt="Profile views" />
 </p>
